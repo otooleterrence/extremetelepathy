@@ -1,0 +1,12 @@
+.content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  bottom: 2em;
+  color: #00a7aa;
+  left:2em;
+  position: absolute;
+  top: 2em;
+  right:2em;
+}

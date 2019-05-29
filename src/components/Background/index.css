@@ -1,0 +1,15 @@
+.background {
+  /* text-align: center; */
+  height: 100vh;
+  background: linear-gradient(to bottom right, #00a7aa 30%, #00e9a2 100%);
+    /* display: flex; */
+  /* align-items: center;
+  justify-content: center;
+  background-color: white; */
+  bottom: 0em;
+  /* color: #00a7aa; */
+  left:0em;
+  position: absolute;
+  top: 0em;
+  right:0em;
+}
